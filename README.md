@@ -1,2 +1,2 @@
-# first_rep
-Baby steps
+# First Repository
+This is my first repository. There isn't much to see.
